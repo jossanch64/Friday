@@ -1,1 +1,23 @@
 
+/**
+ * Write a description of class PirateCard here.
+ * 
+ * @author (your name) 
+ * @version (a version number or a date)
+ */
+public class PirateCard
+{
+   private Card card = new Card();
+   
+   public String name, ability;
+   public int freeCards, hazVal;
+   
+   public PirateCard(int freeCards, int hazVal, String ability){
+       
+    }
+    
+   public void enableAbility(){
+       
+    }
+}
+
