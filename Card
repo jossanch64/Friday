@@ -1,1 +1,16 @@
 
+/**
+ * Holds all of the card classes
+ * 
+ * Josue Sanchez Hernandez
+ * 01/05/2016
+ */
+public class Card extends Deck
+{
+    public String name;
+    
+    public void Card(){}
+    
+    public void enableAbility(){}
+    
+}
